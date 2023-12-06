@@ -1,4 +1,4 @@
-import pathlib, cv2, time, os
+import pathlib, cv2, os
 from deepface import DeepFace
 
 # Datasets for face and eyes
